@@ -1,0 +1,5 @@
+12,Finance,US
+14,Manufacturing,US
+15,Sales,CAN
+17,Service,CAN
+19,Supply,CAN
